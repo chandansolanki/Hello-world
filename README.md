@@ -1,1 +1,1 @@
-# Hello-world
+# Prime number Check
