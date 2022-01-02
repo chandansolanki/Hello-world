@@ -4,7 +4,7 @@ Hi, I'm Chandan 👋
 
 I am a Python Programmer and Machine Learning Engineer.
 
-🌱 I completed post graduation in Digital Communication and have done project in Artificial Intelligence (Fuzzy Inference System) implementation in Digital Image Processing.
+🌱 I completed post graduation in Digital Communication and have done thesis in Artificial Intelligence (Fuzzy Inference System) implementation in Digital Image Processing.
 
 🔭 I have been working in Bharat Electronics (Defense PSU) for last 4 years.
 
