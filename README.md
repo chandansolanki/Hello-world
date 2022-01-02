@@ -1,5 +1,7 @@
 Hi there 👋
+
 Hi, I'm Chandan 👋
+
 I am a Python Programmer and Machine Learning Engineer.
 
 🌱 I completed post graduation in Digital Communication and have done project in Artificial Intelligence (Fuzzy Logic) implementation in Digital Image Processin.
