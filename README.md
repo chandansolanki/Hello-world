@@ -27,4 +27,4 @@ Data Visualization: Matplotlib, Pandas
 
 Networking Management and Analysis Tools: Cisco Packet Tracer, Wireshark, Virtual Router (VMware) 
 
-Network Security: Steganography, Cryptography, Firewalls, ACL, VPN, Secure Remote Connections, Encryption/Decryption, Hashing, Cloud Security, etc.
+Network and Cloud Security: Steganography, Cryptography, Firewalls, ACL, VPN, Secure Remote Connections, Encryption/Decryption, Hashing, etc.
